@@ -1,1 +1,30 @@
-{"asset" : {"generator" : "Aspose.3D 24.1.0", "version" : "2.0"}, "scene" : 0, "scenes" : [{}]}
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v4.0.44",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"name":"Scene",
+			"nodes":[
+				0,
+				1
+			]
+		}
+	],
+	"nodes":[
+		{
+			"name":"world"
+		},
+		{
+			"name":"mesh",
+			"rotation":[
+				0.7071068286895752,
+				0,
+				0,
+				0.7071068286895752
+			]
+		}
+	]
+}
